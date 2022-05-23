@@ -1,2 +1,2 @@
 # Python-projects
-Contains different projects made using Python-2.
+This repository contains different introductory projects made using Python-2.
